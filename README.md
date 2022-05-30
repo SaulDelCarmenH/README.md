@@ -16,4 +16,5 @@ const Saul = {
   challenge: 'Become a Senior Web Developer'
 }
 ```
+**Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{SaulDelCarmenH}/count.svg)
