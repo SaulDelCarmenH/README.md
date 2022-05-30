@@ -11,7 +11,7 @@
 const Saul = {
   pronouns: 'He' | 'Him',
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
-  tools: ['Node', 'Azure', 'IBM Watson',],
+  tools: ['Node', 'Azure', 'IBM Watson'],
   areas: ['IoT', 'Electronics', 'Cloud', 'Data'],
   challenge: 'Become a Senior Web Developer'
 }
