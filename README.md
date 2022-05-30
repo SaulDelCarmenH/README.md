@@ -7,7 +7,7 @@
 [![Linkedin: SaulDelCarmen](https://img.shields.io/badge/-SaulDelCarmen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delcarmenerick/)](https://www.linkedin.com/in/delcarmenerick/)
 [![GitHub SaulDelCarmenH](https://img.shields.io/github/followers/SaulDelCarmenH?label=follow&style=social)](https://github.com/SaulDelCarmenH)
 
-```javascript
+javascript
 const Saul = {
   pronouns: 'He' | 'Him',
   code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
@@ -18,4 +18,4 @@ const Saul = {
                       },
  challenge: 'Become a Senior Web Developer'
 }
-```
+
