@@ -6,3 +6,16 @@
 
 [![Linkedin: SaulDelCarmen](https://img.shields.io/badge/-SaulDelCarmen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/delcarmenerick/)](https://www.linkedin.com/in/delcarmenerick/)
 [![GitHub SaulDelCarmenH](https://img.shields.io/github/followers/SaulDelCarmenH?label=follow&style=social)](https://github.com/SaulDelCarmenH)
+
+```javascript
+const Fer = {
+  pronouns: 'He' | 'Him',
+  code: ['Javascript','HTML', 'CSS', 'Python', 'Java', 'C++'], 
+  tools: ['Node', 'Azure', 'IBM Watson', 'Dialogflow',],
+  areas: ['IoT', 'Chatbots', 'Electronics', 'Cloud', 'Data'],
+  techCommunities: {
+                        
+                      },
+ challenge: 'Become a Senior Web Developer'
+}
+```
